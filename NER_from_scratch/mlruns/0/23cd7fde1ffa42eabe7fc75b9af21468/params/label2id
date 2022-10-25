@@ -1,0 +1,1 @@
+{'O': '0', 'B-ACT': '1', 'I-ACT': '2', 'B-ATTR': '3', 'I-ATTR': '4', 'B-RELOP': '5', 'I-RELOP': '6', 'B-QUANT': '7', 'I-QUANT': '8', 'B-ENT': '9', 'I-ENT': '10'}
