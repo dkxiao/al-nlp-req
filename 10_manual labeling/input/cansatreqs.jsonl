@@ -1,0 +1,126 @@
+{"text": "The system shall chacracterize Earth's atmosphere between 450 m and 150 m above ground level including air speed and matter/dust particulates in function of the altitude."}
+{"text": "Safety for the team, operators, the public and any people involved in the launch shall be ensured at anytime. It includes assembly, testing and operation/post-operation handling."}
+{"text": "The CanSat shall be recovered safely"}
+{"text": "Once assembled, the flight systems shall be integrated inside the Launch Vehicle. "}
+{"text": "At any time during the operatiuons, the CanSat shall be independent from the Launch Vehicle."}
+{"text": "The cost of the Mission, not including GSE shall be under 800CHF"}
+{"text": "The total mass of the CanSat shall be 0.600±0.010 kg"}
+{"text": "The Container shall resists an acceleration of at least 50Gs of shocks"}
+{"text": "The Container shall resists a launch acceleration of at least 20Gs"}
+{"text": "The cost of the Container, including its recovery systems shall be under 250CHF"}
+{"text": "The Container shall be recovered safely"}
+{"text": "The Container shall ensure its safe deployment at apogee."}
+{"text": "The Payload shall be released at the altitude of 450±10m AGL"}
+{"text": "The cost of the Container, including its parachute, shall be under 200CHF"}
+{"text": "The Container shall be independent from the Launch Vehicle"}
+{"text": "The Container shall be safe to operate, both for the operator and for the environment"}
+{"text": "The Container shall operate during and after the environmental tests described in section 3.5 of [RD01]"}
+{"text": "The Container shall fit in a cylindrical envelope of 125 mm diameter x 310 mm length."}
+{"text": "The mass of the Container, including its recovery sysI46:I52"}
+{"text": "The GS shall received wireless communication, using a XBEE radios in the 2.4 GHz Series or 900 MHz Pro Series."}
+{"text": "The GS shall save the collected data."}
+{"text": "The GS shall display in real time the received data."}
+{"text": "During the operations, the Ground Segment shall be independent from any external support. "}
+{"text": "The Payload shall resists an acceleration of at least 60Gs of shocks"}
+{"text": "The Payload shall resists a launch acceleration of at least 25Gs"}
+{"text": "The Payload shall gather the scientific data to fulfill the mission scientific objectives"}
+{"text": "Once ejected, the Payload shall glide in a circular pattern of [30±5]m in diameter"}
+{"text": "After 60s of gliding, the Payload shall deploy a parachute"}
+{"text": "The Payload shall dialogue with the Ground Segment using telemetry"}
+{"text": "The Payload shall be independent from the Launch Vehicle"}
+{"text": "The Payload shall be independent from the Launch Vehicle"}
+{"text": "The cost of the Payload, including its recovery systems shall be under 500CHF"}
+{"text": "The Payload shall be recovered after touch down."}
+{"text": "The Payload shall be safe to operate, both for the operator and for the environment"}
+{"text": "The CanSat shall operate during and after the environmental tests described in section 3.5 of [RD TBD]"}
+{"text": "The mass of the Payload shall be [0.350±0.010]kg"}
+{"text": "If the container integrate a data acquisition and management system, it shall be enclosed and shielded from the environment with the exeption of sensors. "}
+{"text": "If the container integrate sensors, it must be enclosed and shielded from the environment if it doesn't have a negative impact on their performances. "}
+{"text": "If the container integrates a power system, it shall be enclosed and shielded from the environment. "}
+{"text": "If the Container integrates avionics, it shall be self-powered."}
+{"text": "The CanSat's parachute shall not be enclosed in the Container structure"}
+{"text": "From CanSat ejection to Payload release, the descent rate of the CanSat shall be 20m±5m/s"}
+{"text": "The Container may integrate a short-range localization system "}
+{"text": "The Container's parachutes shall be fluorescent Pink or Orange "}
+{"text": "The visible structure of the Container shall be painted in a fluorescent colour (i.e. pink, red or orange)"}
+{"text": "The Container shall be labelled with the following information's:\n• Team name\n• Team Number\n• University name\n• University address\n• Contact name \n• Contact phone number\nThese information's shall be visible at all time after the CanSat ejection from the Launch Vehicle "}
+{"text": "The Launch Vehicle airframe shall not be used to restrain any deployable parts of the CanSat. "}
+{"text": "The Payload shall be released if the ejection system is unpowered."}
+{"text": "Mechanisms shall not use pyrotechnics or chemicals. "}
+{"text": "If a heat source is used, it shall be enclosed and shielded from the environment"}
+{"text": "The Container shall not integrate active mechanisms or systems."}
+{"text": "The interface with the payload ejection system shall be compliant with the interface document [RD-02]"}
+{"text": "The interface with the payload ejection system shall be on the main axis at a minimum of 280 mm from the free end of the container."}
+{"text": "The Payload ejection mechanism shall be an active system based on a Marman system"}
+{"text": "The rocket airframe shall not be used as part of the CanSat operations. "}
+{"text": "The CanSat shall not have any sharp edges."}
+{"text": "The CanSat external structure shall "}
+{"text": "The duration between the reception of the packages by the Ground Segment and its display shall not exced [0.2]s"}
+{"text": "The data shall be saved in a csv file following the format described in Section 3.3 of [RD02]"}
+{"text": "The GS shall count the number of packets received. "}
+{"text": "The following data shall be displayed by the GS:\n• mission time\n• altitude\n• GPS coordinates\n• accuracy of the GPS data\n• internal temperature\n• battery level\n• events (lift-off, AB opening and closing, apogee, recovery triggers and landing)\n• external temperature\n• particulates in the air\n• air speed\n• received packets counter"}
+{"text": "The GS shall display the information with no more than two windows on the same screen at the same time."}
+{"text": "The display refreshment rate shall not exced [4]Hz"}
+{"text": "The range of the communications shall be at least [3] times the apogee."}
+{"text": "The GS shall dialogue simultaneously with the Payload and CS to collect telemetry data."}
+{"text": "The GS shall be self-powered."}
+{"text": "The operation of the GS shall require only [two] persons."}
+{"text": "The transportation of the GS shall require the muscular strength, the coordination of only one person."}
+{"text": "The installation of the GS shall require the muscular strength, the coordination of only one person."}
+{"text": "Payload's data acquisition and management system shall be enclosed and shielded from the environment with the exeption of sensors. "}
+{"text": "Payload's sensors must be enclosed and shielded from the environment if it doesn't have a negative impact on their performances. "}
+{"text": "The Payload shall establish wireless communication with the ground segment, using a XBEE radios."}
+{"text": "All the save data shall be sent to Ground Segment with a frequency of at least [2] Hz."}
+{"text": "The flight software shall update and maintain through processor reset a count of packets transmitted. "}
+{"text": "The range of the communications with GS shall be at least [3] times the apogee."}
+{"text": "The RF link budget shall be established with [10] dB safety margin without including polarisation mismatch and impedance mismatch."}
+{"text": "Payload's power system shall be enclosed and shielded from the environment. "}
+{"text": "If the container integrate avionics, it shall also integrate a power indicator that can be easily perceived without disassembling the cansat and in the stowed state."}
+{"text": "The Payload shall integrate a power indicator that can be easily perceived without disassembling the cansat and in the stowed state."}
+{"text": "The Payload shall be self-powered."}
+{"text": "After parachute deployment, the descent rate of the Payload shall be [7±2]m/s"}
+{"text": "The Payload shall integrate a short-range localization system "}
+{"text": "The Payload parachutes shall be fluorescent Pink or Orange "}
+{"text": "The CanSat shall be labelled with the following information's:\n• Team name\n• Team Number\n• University name\n• University address\n• Contact name \n• Contact phone number\nThese information's shall be visible at all time after the Payload ejection from the CanSat"}
+{"text": "Payload's sensor must be enclosed and shielded from the environment if this does not decrease its performance."}
+{"text": "The Payload's shall not integrate any lasers"}
+{"text": "The Payload's descend rate of the Payload shall be lower than [5.5±0.3]m/s during the gliding phase"}
+{"text": "The following data shall be saved by the Payload from 5 min before the lift-off to the touch down:\n• mission time\n• altitude\n• GPS coordinates\n• accuracy of the GPS data\n• internal temperature\n• battery level\n• events (lift-off, AB opening and closing, apogee, recovery triggers and landing)"}
+{"text": "The following data shall be saved by the Payload from its ejection to the deployment of its parachute,:\n• external temperature\n• particulates in the air\n• air speed"}
+{"text": "The data shall be saved at a minimal frequency of at least [10] Hz"}
+{"text": "The Launch Vehicle airframe shall not be used to restrain any deployable parts of the Payload. "}
+{"text": "Mechanisms shall not use pyrotechnics or chemicals. "}
+{"text": "If a heat source is used, it shall be enclosed and shielded from the environment"}
+{"text": "The Payload ejection mechanism shall be an active system based on a Marman system"}
+{"text": "The rocket airframe shall not be used as part of the Payload operations. "}
+{"text": "In stowed configuration, the Payload shall fit in a cylinder of 115 mm diameter x 260 mm length."}
+{"text": "The Marman interface with the Container shall be compliant with the interface document [RD-02]"}
+{"text": "The battery must be replaceable within 60s without disasemble the all CanSat or Payload."}
+{"text": "The Container shall use anti-vibrations battery holders"}
+{"text": "The Payload shall use anti-vibrations switches"}
+{"text": "The power shall be provided by an alkaline, Ni-Cad, Ni-MH or Lithium battery"}
+{"text": "If Lithium battery is used, the cells shall be manufactured with a metal package similar to 18650 cells. "}
+{"text": "The Container electronic systems shall have an autonomy of at least [4] hours."}
+{"text": "The Payload power indicator may be a sound generator or a visual indicator"}
+{"text": "If implemented, the short-range localization system shall be an audio beacon"}
+{"text": "The RF link budget shall be established with [10] dB safety margin without including polarisation mismatch and impedance mismatch."}
+{"text": "The GS electronic systems shall have an autonomy of at least [6] hours."}
+{"text": "XBEE radios shall not use broadcast mode. "}
+{"text": "XBEE radios shall have their NETID/PANID set to SwissCan team number"}
+{"text": "The communication frequency shall be a in the 2.4 GHz Series or 900 MHz Pro Series."}
+{"text": "The RF link budget shall be established with [10] dB safety margin without including polarisation mismatch and impedance mismatch."}
+{"text": "The battery must be repleable within 60s without disasemble the all CanSat or Payload."}
+{"text": "The Payload shall use anti-vibrations battery holders"}
+{"text": "The Payload shall use anti-vibrations switches"}
+{"text": "The power shall be provided by an alkaline, Ni-Cad, Ni-MH or Lithium battery"}
+{"text": "If Lithium battery is used, the cells shall be manufactured with a metal package similar to 18650 cells. "}
+{"text": "The Payload electronic systems shall have an autonomy of at least [4] hours."}
+{"text": "The altitude shall be measured using a barometric sensor."}
+{"text": "The Payload power indicator should be a sound generator"}
+{"text": "From the ejection of the Payload to the recovery by the team of the Payload, the audio beacon shall remain unobstructed."}
+{"text": "The short-range localization system shall be an audio beacon."}
+{"text": "The short-range localization system may operate continuously "}
+{"text": "The sound pressure level of the audio beacon shall be at least 92dB"}
+{"text": "In flight configuration, the center of pressure shall be above the center of mass"}
+{"text": "The Payload shall be a delta wing"}
+{"text": "The deployment of the wings shall be passive."}

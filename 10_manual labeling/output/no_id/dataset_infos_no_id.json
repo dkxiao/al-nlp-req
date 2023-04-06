@@ -1,0 +1,84 @@
+{
+    "dxiao--requirements-ner": {
+        "description": "",
+        "citation": "",
+        "homepage": "",
+        "license": "",
+        "features": {
+            "tokens": {
+                "feature": {
+                    "dtype": "string",
+                    "id": null,
+                    "_type": "Value"
+                },
+                "length": -1,
+                "id": null,
+                "_type": "Sequence"
+            },
+            "tags": {
+                "feature": {
+                    "dtype": "string",
+                    "id": null,
+                    "_type": "Value"
+                },
+                "length": -1,
+                "id": null,
+                "_type": "Sequence"
+            },
+            "ner_tags": {
+                "feature": {
+                    "num_classes": 11,
+                    "names": [
+                        "O",
+                        "B-ACT",
+                        "I-ACT",
+                        "B-ATTR",
+                        "I-ATTR",
+                        "B-RELOP",
+                        "I-RELOP",
+                        "B-QUANT",
+                        "I-QUANT",
+                        "B-ENT",
+                        "I-ENT"
+                    ],
+                    "id": null,
+                    "_type": "ClassLabel"
+                },
+                "length": -1,
+                "id": null,
+                "_type": "Sequence"
+            }
+        },
+        "post_processed": null,
+        "supervised_keys": null,
+        "task_templates": null,
+        "builder_name": null,
+        "config_name": null,
+        "version": null,
+        "splits": {
+            "train": {
+                "name": "train",
+                "num_bytes": 332636,
+                "num_examples": 636,
+                "dataset_name": "requirements-ner"
+            },
+            "validation": {
+                "name": "validation",
+                "num_bytes": 67448,
+                "num_examples": 138,
+                "dataset_name": "requirements-ner"
+            },
+            "test": {
+                "name": "test",
+                "num_bytes": 72846,
+                "num_examples": 139,
+                "dataset_name": "requirements-ner"
+            }
+        },
+        "download_checksums": null,
+        "download_size": 72816,
+        "post_processing_size": null,
+        "dataset_size": 370626.0,
+        "size_in_bytes": 443442.0
+    }
+}

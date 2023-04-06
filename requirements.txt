@@ -1,2 +1,0 @@
-small-text[transformers]==1.0.1
-datasets==2.5.1
